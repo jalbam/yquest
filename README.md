@@ -13,3 +13,5 @@ Description
 Yasmina's Quest is an open source game (and motor) mix of graphical point-and-click adventure and text adventure written in PHP and DHTML (JavaScript, CSS and HTML) that uses mouse and keyboard optionally.
 You can use the motor/engine/parser to create your own adventure if you know PHP and JavaScript.
 This cross-platform and cross-browser game was tested under BeOS, Linux, NetBSD, OpenBSD, FreeBSD, Windows and others.
+
+Official web site: http://yquest.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/yquest/).
