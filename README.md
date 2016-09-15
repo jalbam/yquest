@@ -9,6 +9,9 @@ Created on 17th November 2005 (approximately).
 You can donate at http://sourceforge.net/donate/index.php?group_id=173640
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Open source adventure game engine that comes with one adventure game example (in Spanish) totally written using PHP, HTML, CSS and JavaScript.
