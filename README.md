@@ -30,6 +30,6 @@ This engine has been used by some other people to create their own adventure.
 
 Play online: http://yquest.tuxfamily.org/yq_spanish/
 
-Play online #mirror: http://www.dhtmlgames.com/yquest/yq_spanish/
+Play online (mirror): http://www.dhtmlgames.com/yquest/yq_spanish/
 
 Official web site: http://yquest.tuxfamily.org/ (mirror at http://www.dhtmlgames.com/yquest/).
