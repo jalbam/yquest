@@ -14,7 +14,7 @@ You can donate at http://sourceforge.net/donate/index.php?group_id=173640
 
 ## Description
 
-Open source adventure game engine that comes with one adventure game example (in Spanish) totally written using PHP, HTML, CSS and JavaScript.
+Open source adventure game engine that comes with one adventure game as example (in Spanish) totally written using PHP, HTML, CSS and JavaScript.
 
 The games created with this engine can be played either as a point-and-click adventure (using mouse, pointer or your finger) or as a text adventure (using keyboard or any other text input method) and they are totally cross-browser and cross-platform.
 
