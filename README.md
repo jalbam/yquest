@@ -1,6 +1,6 @@
 Yasmina's Quest 
 ================ 
-by Joan Alba Maldonado (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
+by [Joan Alba Maldonado](https://joanalbamaldonado.com/) (joanalbamaldonadoNO_SPAM_PLEASE AT gmail DOT com, without NO_SPAM_PLEASE)
 
 Combination of graphical point-and-click adventure and text adventure totally written in PHP and DHTML.
 
